@@ -6,7 +6,7 @@ package ejercicio_thread_ddr_1;
 public class HiloNumeroLetras implements Runnable{
  
     //Atributos
-    private int tipo;
+    private float tipo;
  
     //Constructor
     public HiloNumeroLetras(int tipo) {
