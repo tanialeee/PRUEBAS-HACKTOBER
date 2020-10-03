@@ -29,7 +29,7 @@ public class Deposito {
         altura = valor_altura;
         if (idDeposito !="" && valor_diametro > 0 && valor_altura > 0) {
         } else {
-            System.out.println ("Valores no admisibles. No se han establecido valores para el depósito");
+            System.out.println ("Valores no admisiblesS. No se han establecido valores para el depósito");
             //Deposito (0.0f, 0.0f, ""); Esto no es posible. Un constructor no es un método y por tanto no podemos llamarlo
             idDeposito = "";
             diametro = 0;
