@@ -20,7 +20,7 @@ public class Deposito {
             diametro = 10;
             altura = 5;
             idDeposito = "000";
-            System.out.println ("Creado depósito con valores por defecto diametro 10 metros altura 5 metros id 000" );
+            System.out.println ("Creado depósito con valores por defecto diametro 10 metros altura 5 metros id 0000" );
         }   } //Cierre del constructor
 
     public void setValoresDeposito (String valor_idDeposito, float valor_diametro, float valor_altura) {
