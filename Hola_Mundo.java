@@ -13,7 +13,7 @@ public class Deposito {
     //Constructor de la clase que pide los parámetros necesarios
     public Deposito (float valor_diametro, float valor_altura, String valor_idDeposito) {
         if (valor_diametro > 0 && valor_altura > 0) {            
-            diametro = valor_diametro;
+            diametro = valor_diametrpo;
             altura = valor_altura;
             idDeposito = valor_idDeposito;
         } else {
